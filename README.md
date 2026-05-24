@@ -50,6 +50,7 @@ pip install -r requirements.txt
 ## Yazar
 
 Bahar Erol
+
 Danışman: Dr. Öğr. Üyesi Özgür Tonkal
 
 ## Lisans

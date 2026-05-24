@@ -216,3 +216,47 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Veri dosyaları (büyük, lisanslı, repoya gitmemeli)
+*.binetflow
+*.csv
+*.pcap
+data/
+dataset/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Geçici
+*.tmp
+*.log
+*.bak
+
+!figures/
